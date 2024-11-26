@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #1f162f;
+}
+
+.btn{
+    border: none;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #947ea7;
+    font-size: 20px;
+    color: #1f162f;
+}
